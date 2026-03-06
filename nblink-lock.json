@@ -1,0 +1,106 @@
+{
+  "lockVersion": "1.0.3",
+  "platform": "emscripten-wasm32",
+  "specs": [
+    "python",
+    "pip"
+  ],
+  "channels": [
+    "https://repo.mamba.pm/emscripten-forge",
+    "conda-forge"
+  ],
+  "channelInfo": {
+    "https://repo.mamba.pm/emscripten-forge": [
+      {
+        "url": "https://repo.mamba.pm/emscripten-forge",
+        "protocol": "https"
+      }
+    ],
+    "conda-forge": [
+      {
+        "url": "https://prefix.dev/conda-forge",
+        "protocol": "https"
+      },
+      {
+        "url": "https://repo.prefix.dev/conda-forge",
+        "protocol": "https"
+      }
+    ]
+  },
+  "packages": {
+    "python-3.11.3-h_bbba66e_25_cpython.tar.bz2": {
+      "name": "python",
+      "build": "h_bbba66e_25_cpython",
+      "version": "3.11.3",
+      "subdir": "emscripten-wasm32",
+      "channel": "https://repo.mamba.pm/emscripten-forge",
+      "hash": {
+        "md5": "27e4974cd7474bb2eadb09403504dc41",
+        "sha256": "968148ee2b13a9278910670873ad6a4fea77ea464d22fdd392be8039a43f49c7"
+      },
+      "size": 13185712
+    },
+    "pip-26.0.1-pyh8b19718_0.conda": {
+      "name": "pip",
+      "build": "pyh8b19718_0",
+      "version": "26.0.1",
+      "subdir": "noarch",
+      "channel": "conda-forge",
+      "hash": {
+        "md5": "67bdec43082fd8a9cffb9484420b39a2",
+        "sha256": "8e1497814a9997654ed7990a79c054ea5a42545679407acbc6f7e809c73c9120"
+      },
+      "size": 1181790
+    },
+    "wheel-0.46.0-py311hcb8ba5c_0.tar.bz2": {
+      "name": "wheel",
+      "build": "py311hcb8ba5c_0",
+      "version": "0.46.0",
+      "subdir": "emscripten-wasm32",
+      "channel": "https://repo.mamba.pm/emscripten-forge",
+      "hash": {
+        "md5": "a525c0b9684b498f1c78087a2203da38",
+        "sha256": "87af2dfa991bc154b7d2ea840e59653116fc8389ae76476cfbcaa368a4260f47"
+      },
+      "size": 48717
+    },
+    "setuptools-82.0.0-pyh332efcf_0.conda": {
+      "name": "setuptools",
+      "build": "pyh332efcf_0",
+      "version": "82.0.0",
+      "subdir": "noarch",
+      "channel": "conda-forge",
+      "hash": {
+        "md5": "1d00d46c634177fc8ede8b99d6089239",
+        "sha256": "fd7201e38e38bf7f25818d624ca8da97b8998957ca9ae3fb7fdc9c17e6b25fcd"
+      },
+      "size": 637506
+    },
+    "emscripten-abi-3.1.45-h267e887_33.tar.bz2": {
+      "name": "emscripten-abi",
+      "build": "h267e887_33",
+      "version": "3.1.45",
+      "subdir": "noarch",
+      "channel": "https://repo.mamba.pm/emscripten-forge",
+      "hash": {
+        "md5": "c0c59546e009b1e28aeff9f015005c22",
+        "sha256": "9a434e877f4201e887818f7f51142c8f1819e6297a83fa8ede4785b5f6f1020e"
+      },
+      "size": 11088
+    }
+  },
+  "pipPackages": {
+    "jupyterlite_p5_kernel-0.3.0-py3-none-any.whl": {
+      "name": "jupyterlite-p5-kernel",
+      "version": "0.3.0",
+      "url": "https://files.pythonhosted.org/packages/fd/99/643dd0b8d55d978685777567ff331af944e2a2c2d648a4f399b52f9fde99/jupyterlite_p5_kernel-0.3.0-py3-none-any.whl",
+      "size": 22018,
+      "registry": "PyPi",
+      "hash": {
+        "md5": "09c00ef7739e95045fb987a586b508b8",
+        "sha256": "8b3083bfcfecb6f0786ca5607603e094623a487c37f8ffa5825a1c1eda5686b0"
+      }
+    }
+  },
+  "id": "4406072876633385"
+}

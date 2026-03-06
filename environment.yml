@@ -1,0 +1,9 @@
+name: sketchnb
+channels:
+  - https://repo.mamba.pm/emscripten-forge
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+      - jupyterlite-p5-kernel
