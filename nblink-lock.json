@@ -90,17 +90,17 @@
     }
   },
   "pipPackages": {
-    "jupyterlite_p5_kernel-0.3.0-py3-none-any.whl": {
+    "jupyterlite_p5_kernel-0.4.0a1-py3-none-any.whl": {
       "name": "jupyterlite-p5-kernel",
-      "version": "0.3.0",
-      "url": "https://files.pythonhosted.org/packages/fd/99/643dd0b8d55d978685777567ff331af944e2a2c2d648a4f399b52f9fde99/jupyterlite_p5_kernel-0.3.0-py3-none-any.whl",
-      "size": 22018,
+      "version": "0.4.0a1",
+      "url": "https://files.pythonhosted.org/packages/23/68/66c8a843136ac88151634727a1f921ac997163448cb247aeee20e3f82219/jupyterlite_p5_kernel-0.4.0a1-py3-none-any.whl",
+      "size": 98528,
       "registry": "PyPi",
       "hash": {
-        "md5": "09c00ef7739e95045fb987a586b508b8",
-        "sha256": "8b3083bfcfecb6f0786ca5607603e094623a487c37f8ffa5825a1c1eda5686b0"
+        "md5": "5e188d2d09875d4ebac9f117070be8b5",
+        "sha256": "6ece7a56ed04075d843cb870cab5b452ba5c6e347a19bd1a9e8c2753b6b544d7"
       }
     }
   },
-  "id": "4406072876633385"
+  "id": "3763211407740137"
 }
