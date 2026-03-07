@@ -6,6 +6,7 @@ A collection of generative art sketches as Jupyter notebooks, powered by the [p5
 
 - **sketch.ipynb** — A simple interactive p5.js demo
 - **abyssal-bloom.ipynb** — Bioluminescent flow field driven by Perlin noise
+- **painting-with-data.ipynb** — Climate spiral visualization using NASA GISS data and imported npm packages (chroma-js)
 
 ## Agent Skill
 
