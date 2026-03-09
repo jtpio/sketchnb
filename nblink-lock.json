@@ -64,17 +64,17 @@
       },
       "size": 48717
     },
-    "setuptools-82.0.0-pyh332efcf_0.conda": {
+    "setuptools-82.0.1-pyh332efcf_0.conda": {
       "name": "setuptools",
       "build": "pyh332efcf_0",
-      "version": "82.0.0",
+      "version": "82.0.1",
       "subdir": "noarch",
       "channel": "conda-forge",
       "hash": {
-        "md5": "1d00d46c634177fc8ede8b99d6089239",
-        "sha256": "fd7201e38e38bf7f25818d624ca8da97b8998957ca9ae3fb7fdc9c17e6b25fcd"
+        "md5": "8e194e7b992f99a5015edbd4ebd38efd",
+        "sha256": "82088a6e4daa33329a30bc26dc19a98c7c1d3f05c0f73ce9845d4eab4924e9e1"
       },
-      "size": 637506
+      "size": 639697
     },
     "emscripten-abi-3.1.45-h267e887_33.tar.bz2": {
       "name": "emscripten-abi",
@@ -90,17 +90,17 @@
     }
   },
   "pipPackages": {
-    "jupyterlite_p5_kernel-0.4.0a1-py3-none-any.whl": {
+    "jupyterlite_p5_kernel-0.4.0a2-py3-none-any.whl": {
       "name": "jupyterlite-p5-kernel",
-      "version": "0.4.0a1",
-      "url": "https://files.pythonhosted.org/packages/23/68/66c8a843136ac88151634727a1f921ac997163448cb247aeee20e3f82219/jupyterlite_p5_kernel-0.4.0a1-py3-none-any.whl",
-      "size": 98528,
+      "version": "0.4.0a2",
+      "url": "https://files.pythonhosted.org/packages/74/11/bf8eb0cf81b6d3a23551e5e70008e73cc31c76218f8f3776758eb0d4a55d/jupyterlite_p5_kernel-0.4.0a2-py3-none-any.whl",
+      "size": 98531,
       "registry": "PyPi",
       "hash": {
-        "md5": "5e188d2d09875d4ebac9f117070be8b5",
-        "sha256": "6ece7a56ed04075d843cb870cab5b452ba5c6e347a19bd1a9e8c2753b6b544d7"
+        "md5": "3eaff4381f907c85f5cfed23e046cd9a",
+        "sha256": "67d88c86e9ee64cf576a33cbe488957b56d13db844f580ac307918ef1d12fbe3"
       }
     }
   },
-  "id": "3763211407740137"
+  "id": "5241367078435971"
 }

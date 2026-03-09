@@ -6,4 +6,4 @@ dependencies:
   - python
   - pip
   - pip:
-      - jupyterlite-p5-kernel==0.4.0a1
+      - jupyterlite-p5-kernel==0.4.0a2
